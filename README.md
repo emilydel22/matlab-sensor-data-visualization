@@ -35,8 +35,6 @@ The MATLAB workflows implemented in this repository include:
 ## Hardware Setup
 [![Circuit Implementation](Circuit.jpg)](Circuit.jpg)
 
-## Project Report
-📄 [Full Assignment Report (PDF)](DelgadoGonzalez_Emily_BME4503C_Assignment_Temp.pdf)
 
 
 
