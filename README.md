@@ -1,5 +1,8 @@
 # MATLAB Sensor Data Visualization
 
+![MATLAB](https://img.shields.io/badge/MATLAB-modeling%20%26%20visualization-blue)
+![Focus](https://img.shields.io/badge/focus-sensor%20data%20analysis-brightgreen)
+
 ## Overview
 This repository contains MATLAB-based modeling, analysis, and visualization of time-series sensor data. The projects focus on interpreting real-world engineering measurements using mathematical modeling and publication-quality plots.
 
